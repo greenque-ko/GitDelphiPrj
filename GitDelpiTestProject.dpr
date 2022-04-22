@@ -3,12 +3,12 @@ program GitDelpiTestProject;
 uses
   System.StartUpCopy,
   FMX.Forms,
-  GitDelphiTest in 'GitDelphiTest.pas' {Form1};
+  GitDelphiTest in 'GitDelphiTest.pas' {GitTestPrj};
 
 {$R *.res}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TGitTestPrj, GitTestPrj);
   Application.Run;
 end.

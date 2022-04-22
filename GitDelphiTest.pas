@@ -4,10 +4,13 @@ interface
 
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
-  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs;
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
+  FMX.Controls.Presentation, FMX.StdCtrls;
 
 type
-  TForm1 = class(TForm)
+  TGitTestPrj = class(TForm)
+    SpeedButton1: TSpeedButton;
+    StyleBook1: TStyleBook;
   private
     { Private declarations }
   public
@@ -15,7 +18,7 @@ type
   end;
 
 var
-  Form1: TForm1;
+  GitTestPrj: TGitTestPrj;
 
 implementation
 

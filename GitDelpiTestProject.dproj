@@ -266,7 +266,7 @@
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
         <DCCReference Include="GitDelphiTest.pas">
-            <Form>Form1</Form>
+            <Form>GitTestPrj</Form>
             <FormType>fmx</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">
