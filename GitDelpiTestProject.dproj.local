@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-04-22 13:11:10.826,=C:\Work\Delphi\Android\Unit1.pas</Transaction>
+    <Transaction>2022-04-22 13:12:08.388,C:\Work\Delphi\Github\GitDelphiPrj\GitDelphiTest.fmx=C:\Work\Delphi\Android\Unit1.fmx</Transaction>
+    <Transaction>2022-04-22 13:12:08.388,C:\Work\Delphi\Github\GitDelphiPrj\GitDelphiTest.pas=C:\Work\Delphi\Android\Unit1.pas</Transaction>
+    <Transaction>2022-04-22 13:12:32.316,C:\Work\Delphi\Github\GitDelphiPrj\GitDelpiTestProject.dproj=C:\Work\Delphi\Android\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="R3CR900WKCK" Android64="R3CR900WKCK"/>
+  </ActiveMobileDevice>
+</BorlandProject>
